@@ -1,3 +1,7 @@
+## Link do projeto
+
+https://gustavofayao.github.io/AluraSkate.github.io/
+
 # Guia de estilos
 
 Toda a estilização que será usada no projeto dentro do figma.

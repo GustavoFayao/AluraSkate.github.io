@@ -1,0 +1,26 @@
+@import url(../css/cabeçalho.css);
+@import url(../css/principal.css);
+@import url(../css/secao.css);
+@font-face {
+    font-family: 'icones';
+    src: url(../font/icones.ttf);
+}
+
+
+body {
+    background-color: #1D232A;
+    font-family: 'Open Sans', 'icones', sans-serif;
+    color: #FFFFFF;
+}
+
+@media screen and (min-width: 1024px) {
+    body {
+        display: grid;
+        grid-template-columns: auto 1fr;
+        font-family: 'Open Sans', 'icones', sans-serif;
+    }
+}
+
+
+
+
